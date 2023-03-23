@@ -1,0 +1,406 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.gjs-row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.gjs-cell {
+    min-height: 75px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+#template-ie78j {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    height: 100vh;
+    min-height: 100vh;
+}
+
+#template-iosaq {
+    flex-basis: 85%;
+    height: auto;
+    min-height: auto;
+    font-family: Helvetica, sans-serif;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+#template-iqgk7 {
+    flex-basis: 5%;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(219, 219, 219);
+    border-right-color: rgb(219, 219, 219);
+    border-bottom-color: rgb(219, 219, 219);
+    border-left-color: rgb(219, 219, 219);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: rgb(253, 253, 253);
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    min-height: 100vh;
+}
+
+#template-inkrc {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-iqgaq {
+    display: flex;
+    justify-content: center;
+}
+
+#template-ik4kt {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#template-imtoj {
+    color: black;
+    width: 80px;
+    display: block;
+    height: 80px;
+}
+
+#template-iakca {
+    color: black;
+    width: 80px;
+    display: block;
+    height: 80px;
+}
+
+#template-ibw7q {
+    display: flex;
+    justify-content: center;
+}
+
+#template-iy2y4 {
+    color: black;
+    width: 80px;
+    display: block;
+    height: 80px;
+}
+
+#template-ipq86 {
+    display: flex;
+    justify-content: center;
+}
+
+#template-i8w4d {
+    color: black;
+    width: 80px;
+    display: block;
+    height: 80px;
+}
+
+#template-iq3ej {
+    display: flex;
+    justify-content: center;
+}
+
+#template-ipi1x {
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(226, 226, 226);
+    border-right-color: rgb(226, 226, 226);
+    border-bottom-color: rgb(226, 226, 226);
+    border-left-color: rgb(226, 226, 226);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    display: block;
+    min-height: auto;
+}
+
+#template-ic6gj {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: auto;
+}
+
+#template-iovaj {
+    min-height: auto;
+}
+
+#template-i2off {
+    color: rgb(14, 14, 14);
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Helvetica, sans-serif;
+}
+
+#template-inukl {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+#template-ifron {
+    width: 40%;
+}
+
+#template-ipwzs {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: rgb(26, 26, 26);
+    font-family: Helvetica, sans-serif;
+}
+
+#template-i3dbj {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+
+#template-iq79g {
+    display: flex;
+    justify-content: center;
+}
+
+#template-i1dvi {
+    color: black;
+    width: 80px;
+    height: 80px;
+}
+
+#template-iaz26 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    display: block;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+#template-idtp9 {
+    display: flex;
+    min-height: auto;
+    justify-content: flex-start;
+    margin-top: 0px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#template-ieu27 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#template-i5pgo {
+    justify-content: center;
+    align-items: center;
+}
+
+#template-i7shl {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+#template-ign8jo {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#template-ihrjg {
+    display: flex;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    min-height: auto;
+}
+
+#template-i8bfg {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+
+#template-i9h42 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    align-items: center;
+}
+
+#template-ixvvf {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 1px;
+    height: 100%;
+    min-height: 100%;
+}
+
+#template-iwzi4 {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    height: 100%;
+}
+
+#template-it3kn {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(208, 208, 208);
+    border-right-color: rgb(208, 208, 208);
+    border-bottom-color: rgb(208, 208, 208);
+    border-left-color: rgb(208, 208, 208);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: rgb(255, 255, 255);
+}
+
+#template-itl74 {
+    width: 20%;
+    height: 70%;
+    background-color: rgb(109, 132, 255);
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(208, 208, 208);
+    border-right-color: rgb(208, 208, 208);
+    border-bottom-color: rgb(208, 208, 208);
+    border-left-color: rgb(208, 208, 208);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    .gjs-row {
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,61 @@
+---
+openapi: 3.0.0
+info:
+   version: 1.3.0
+   title: screendesign open api specification
+   description: reactimages API
+   termsOfService: http://api_url/terms/
+   contact:
+      name: ContactName
+      email: hello@wolox.co
+      url: https://www.wolox.com.ar/
+   license:
+      name: Apache 2.0
+      url: https://www.apache.org/licenses/LICENSE-2.0.html
+servers:
+   - url: http://localhost:8027
+     description: reactimages
+tags:
+- name: appsdata
+paths:
+   "/appsdata":
+      post:
+         tags:
+         -  appsdata
+         description: GpCreate
+         requestBody:
+            content:
+               application/json:
+                  schema:
+                     $ref: "#/components/schemas/appsdata"
+         responses:
+            200:
+               description: Success
+            400:
+               description: Bad Request
+            404:
+               description: Not Found
+            500:
+               description: Internal Server Error
+   "/appsdata/userid/created_by":
+      get:
+         tags:
+         -  appsdata
+         description: GpGetNounCreatedBy
+         responses:
+            200:
+               description: Success
+            400:
+               description: Bad Request
+            404:
+               description: Not Found
+            500:
+               description: Internal Server Error
+components:
+   schemas:
+      appsdata:
+         type: object
+         properties:
+            name:
+               type: "string"
+               description: Description
